@@ -1,6 +1,6 @@
 Twee ideeën die de website toegankelijker zouden maken:
 
-1. Geen streepjes (-) in de tekst gebruiken als u dit vermeden kan worden.
+1. Geen streepjes (-) in de tekst gebruiken als dit vermeden kan worden.
 2. Het uitvouwen van acroniemen. In plaats van in eerste instantie "TV" te schrijven, schrijf ik television.
 
 Beide ideeën zijn verwerkt in de pagina!
