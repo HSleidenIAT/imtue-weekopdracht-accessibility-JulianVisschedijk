@@ -5,6 +5,12 @@ const commentWrapper = document.querySelector('.comment-wrapper');
 
 commentWrapper.style.display = 'none';
 
+document.onkeydown = function(e) {
+  if(e.keyCode === 13) { // The Enter/Return key
+    document.activeElement.click();
+  }
+};
+
 showHideBtn.onclick = function() {
   let showHideText = showHideBtn.textContent;
   if(showHideText === 'Show comments') {
